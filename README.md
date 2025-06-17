@@ -1,4 +1,4 @@
-# Speech_to_text-and-Text_to-Speech
+Speech to Text and Text to Speech
 Python and Tkinter
 🎙️ Speech to Text Translator:
 - A cross_platform GUI application that converts speech to text and translates it into multiple languages.
