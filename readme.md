@@ -14,6 +14,7 @@
 Make sure the following Python packages are installed:
 pip install SpeechRecognition
 pip install googletrans==4.0.0-rc1
+pip install pyttsx3 gtts playsound
 pip install pyaudio  # For microphone access
 
 
