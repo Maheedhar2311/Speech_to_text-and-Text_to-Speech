@@ -1,5 +1,5 @@
 🎙️ Speech to Text Translator:
-- A cross_platform GUI application that converts speech to text and translates it into multiple languages.
+- A cross_platform GUI application that converts speech to text and translates it into multiple languages and converts the translated text to speech.
 - Built using python and tkinter
 
 📦 Features:
@@ -25,6 +25,7 @@ pip install pyaudio  # For microphone access
 ├── text_display.py               # Manages shared text variables
 ├── language_detection.py         # Validates language code input
 ├── error_handling.py             # Centralized error & warning popups
+├── my_speech.py                  # Converts translated text to speech
 └── README.md                     # Documentation file
 
 
